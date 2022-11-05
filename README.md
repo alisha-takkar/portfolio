@@ -1,5 +1,5 @@
 # portfolio
-A porfolio project
+A responsive portfolio website
 
 <h5> Languages used </h5>
 
